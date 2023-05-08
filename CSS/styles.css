@@ -193,16 +193,16 @@ div.logo_gif {
     top: 0;
 }
 .section.one{
-    background-image: url(./images/mission.png);
+    background-image: url(../images/mission.png);
     background-size: cover;
     
 }
 .section.two{
-    background-image: url(./images/vision.png);
+    background-image: url(../images/vision.png);
     background-size: cover;
 }
 .section.three{
-    background-image: url(./images/goal.png);
+    background-image: url(../images/goal.png);
     background-size: cover;
 }
 .sign_desc,.chat_desc {
